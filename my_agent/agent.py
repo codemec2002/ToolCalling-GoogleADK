@@ -49,6 +49,9 @@ def get_weather(city: str) -> dict:
         }
 
 
+def broken( #test deploy 3
+
+
 root_agent = Agent(
     model='gemini-3.5-flash',
     name='root_agent',
