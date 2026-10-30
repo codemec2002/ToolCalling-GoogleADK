@@ -38,7 +38,7 @@ def get_weather(city: str) -> dict:
         return {
             "status": "success",
             "report": (
-                "The weather in New York is sunny with a temperature of 25 degrees"
+                "The weather in New York is sunny with a temperature of 27 degrees"
                 " Celsius (77 degrees Fahrenheit)."
             ),
         }
